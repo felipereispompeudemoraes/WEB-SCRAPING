@@ -6,8 +6,7 @@ SLEEP_TIME = 30
 
 conector_db = db_session()
 
-#url_inicial = "https://www6g.senado.gov.br/apem/search?browse-all=yes"
-url_inicial = "https://www6g.senado.gov.br/apem/search?browse-all=yes;startDoc=29881"
+url_inicial = "https://sian.an.gov.br/"
 
 url = url_inicial
 
